@@ -3,4 +3,5 @@
 # Content
 
 **Theory**:
-1. [Base ML](base.ipynb)
+1. [Basic of Neural Networks](notebooks\basic.ipynb)
+2. [Overfitting](notebooks\overfitting.ipynb)
